@@ -1,0 +1,2 @@
+This is a project to search through a skype database, and count the number of times a certain face or list of faces have been used in the chat history. Results are presented as a percentage of messages per chat.
+Add your own database by copying over main.db for your skype log.
